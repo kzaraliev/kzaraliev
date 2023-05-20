@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://instagram.com/konstantin_zaraliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="konstantin_zaraliev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kzaraliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kzaraliev" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@kose bose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kzaraliev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
