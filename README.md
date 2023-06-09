@@ -60,7 +60,7 @@
   
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3843/csharp-oop-october-2022" > C# OPP </a>        | <a href="https://softuni.bg/certificates/details/150796/229b2897"> Click here</a> | 
+| <a href="https://softuni.bg/trainings/3843/csharp-oop-october-2022" > C# OOP </a>        | <a href="https://softuni.bg/certificates/details/150796/229b2897"> Click here</a> | 
  Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/12/2022</th>
  
    ---------------------------------------------------------------------------------
