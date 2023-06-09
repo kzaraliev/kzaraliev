@@ -29,6 +29,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kzaraliev&" alt="kzaraliev" /></p>
 
+<p align="centre">
+  <img src="https://cdn.discordapp.com/attachments/979101848361377914/1022244283606110228/Softuni_logo_trasparent.png" alt="Banner SoftUni"/>
+</p>
+
 <h1 align="center">Certificates 📜 </h1>
 <table>
 <tr>
