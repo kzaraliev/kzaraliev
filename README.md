@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td>
-   ---------------------------------------------------------------------------------
+ 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022" > Programming Basics with C# </a>         | <a href="https://softuni.bg/certificates/details/125357/b8859cfc"> Click here</a> |
