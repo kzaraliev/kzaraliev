@@ -25,10 +25,10 @@
 
 <p><img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzaraliev&show_icons=true&locale=en&layout=compact" alt="kzaraliev" /></p>
 
-<p>&nbsp;<img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=kzaraliev&show_icons=true&locale=en" alt="kzaraliev" /></p>
+<p>&nbsp;<img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=kzaraliev&show_icons=true&locale=en" alt="kzaraliev" /> <img src="https://cdn.discordapp.com/attachments/979101848361377914/1022244283606110228/Softuni_logo_trasparent.png" alt="Banner SoftUni"/></p>
 
 <p align="centre">
-  <img src="https://cdn.discordapp.com/attachments/979101848361377914/1022244283606110228/Softuni_logo_trasparent.png" alt="Banner SoftUni"/>
+  
 </p>
 
 <h1 align="center">Certificates 📜 </h1>
