@@ -89,7 +89,7 @@
    
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS </a>        |  Soon! </a> | 
+| <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS </a>        |  <a href="https://softuni.bg/certificates/details/174803/91d5434d"> Click here</a> | 
   
   </table>
   </tr>
