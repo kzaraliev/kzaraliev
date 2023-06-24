@@ -79,7 +79,7 @@
  
    ---------------------------------------------------------------------------------
    
-   | **Course**                                                            | **Link**                                                   |
+| **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/3966/entity-framework-core-february-2023" > C# Entity Framework Core </a>        | <a href="https://softuni.bg/certificates/details/164840/26f40b6e"> Click here</a> | 
 
@@ -92,6 +92,14 @@
 | <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS </a>        |  <a href="https://softuni.bg/certificates/details/174803/91d5434d"> Click here</a> | 
 
 Grade: 6.00 (out of 6.00)<br /> Issue Date: 23/06/2023</th>
+
+
+   ---------------------------------------------------------------------------------
+   
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4113/js-front-end-june-2023" > JS Front-End </a>        |  <a> Soon! </a> | 
+
 
   </table>
   </tr>
