@@ -98,7 +98,9 @@ Grade: 6.00 (out of 6.00)<br /> Issue Date: 23/06/2023</th>
    
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4113/js-front-end-june-2023" > JS Front-End </a>        |  <a> Soon! </a> | 
+| <a href="https://softuni.bg/trainings/4113/js-front-end-june-2023" > JS Front-End </a>        |  <a href="https://softuni.bg/certificates/details/181303/9b59ac98"> Click here</a> | 
+
+Grade: 6.00 (out of 6.00)<br /> Issue Date: 07/08/2023</th>
 
 
   </table>
