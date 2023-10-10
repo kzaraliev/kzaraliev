@@ -106,8 +106,9 @@ Grade: 6.00 (out of 6.00)<br /> Issue Date: 07/08/2023</th>
    
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4266/data-structures-fundamentals-with-csharp-september-2023" > Data-Structures </a>        |  <a> Soon!</a> | 
+| <a href="https://softuni.bg/trainings/4266/data-structures-fundamentals-with-csharp-september-2023" > Data-Structures </a>        |  <a href="https://softuni.bg/certificates/details/185480/4821c3eb"> Click here</a> | 
 
+Grade: 6.00 (out of 6.00)<br /> Issue Date: 10/10/2023</th>
 
   </table>
   </tr>
