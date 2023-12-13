@@ -114,7 +114,11 @@ Grade: 6.00 (out of 6.00)<br /> Issue Date: 10/10/2023</th>
    
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4238/reactjs-october-2023" > ReactJS </a>        |  <a href="https://softuni.bg/certificates/details/197964/c1c160bc">Click here</a> | 
+| <a href="https://softuni.bg/trainings/4238/reactjs-october-2023" > ReactJS </a>        |  <a href="https://softuni.bg/certificates/details/197964/c1c160bc">Click here</a> |
+
+Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/12/2023</th>
+
+   ---------------------------------------------------------------------------------
 
   </table>
   </tr>
