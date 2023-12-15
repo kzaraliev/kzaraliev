@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **kzaraliev@gmail.com**
 
-- ⚡ Fun fact **I love music**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/konstantin_zaraliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="konstantin_zaraliev" height="30" width="40" /></a>
