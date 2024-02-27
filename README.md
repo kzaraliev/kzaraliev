@@ -127,6 +127,14 @@ Grade: 6.00 (out of 6.00)<br /> Issue Date: 10/10/2023</th>
 
 Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/12/2023</th>
 
+   ---------------------------------------------------------------------------------
+   
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4367/asp-net-fundamentals-january-2024" > ASP.NET Fundamentals </a>        |  <a href="https://softuni.bg/certificates/details/206739/520408d6">Click here</a> |
+
+Grade: 6.00 (out of 6.00)<br /> Issue Date: 27/02/2024</th>
+
   </table>
   </tr>
 </td>
