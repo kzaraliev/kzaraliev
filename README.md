@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/kzaraliev?logo=github&style=for-the
 
 
 <p align="centre">
-  <img src="https://cdn.discordapp.com/attachments/979101848361377914/1022244283606110228/Softuni_logo_trasparent.png" alt="Banner SoftUni"/>
+  <img src="https://github.com/kzaraliev/SoftUni/blob/main/softuni-banner.png" alt="Banner SoftUni"/>
 </p>
 
 <h1 align="center">Certificates 📜 </h1>
@@ -134,6 +134,12 @@ Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/12/2023</th>
 | <a href="https://softuni.bg/trainings/4367/asp-net-fundamentals-january-2024" > ASP.NET Fundamentals </a>        |  <a href="https://softuni.bg/certificates/details/206739/520408d6">Click here</a> |
 
 Grade: 6.00 (out of 6.00)<br /> Issue Date: 27/02/2024</th>
+
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4369/asp-net-advanced-february-2024" > ASP.NET Advanced </a>        |  <a href="https://softuni.bg/certificates/details/214186/9f2dbc6b">Click here</a> |
+
+Grade: 6.00 (out of 6.00)<br /> Issue Date: 22/04/2024</th>
 
   </table>
   </tr>
