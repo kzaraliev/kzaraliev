@@ -20,6 +20,21 @@ src="https://img.shields.io/github/followers/kzaraliev?logo=github&style=for-the
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Diplomas and Certificates 📜
+*  🖥️  [Programming Basics](https://github.com/kzaraliev/kzaraliev/blob/main/Programming%20Basics%20-%20January%202022%20-%20Certificate.pdf)
+*  🔧  [Programming Fundamentals with C#](https://github.com/kzaraliev/kzaraliev/blob/main/Programming%20Fundamentals%20with%20C%23%20-%20May%202022%20-%20Certificate.pdf)
+*  🏆  [C# Advanced](https://github.com/kzaraliev/kzaraliev/blob/main/C%23%20Advanced%20-%20September%202022%20-%20Certificate.pdf)
+*  🏗️  [C# OOP](https://github.com/kzaraliev/kzaraliev/blob/main/C%23%20OOP%20-%20October%202022%20-%20Certificate.pdf)
+*  🗄️  [MS SQL](https://github.com/kzaraliev/kzaraliev/blob/main/MS%20SQL%20-%20January%202023%20-%20Certificate.pdf)
+*  🔗  [Entity Framework Core](https://github.com/kzaraliev/kzaraliev/blob/main/Entity%20Framework%20Core%20-%20February%202023%20-%20Certificate.pdf)
+*  🌐  [HTML & CSS](https://github.com/kzaraliev/kzaraliev/blob/main/HTML%20%26%20CSS%20-%20May%202023%20-%20Certificate.pdf)
+*  💻  [JS Front-End](https://github.com/kzaraliev/kzaraliev/blob/main/JS%20Front-End%20-%20June%202023%20-%20Certificate.pdf)
+*  📚  [Data Structures Fundamentals (with C#)](https://github.com/kzaraliev/kzaraliev/blob/main/Data%20Structures%20Fundamentals%20(with%20C%23)%20-%20September%202023%20-%20Certificate.pdf)
+*  ⚛️  [React](https://github.com/kzaraliev/kzaraliev/blob/main/ReactJS%20-%20October%202023%20-%20Certificate.pdf)
+*  🌍  [ASP.NET Fundamentals](https://github.com/kzaraliev/kzaraliev/blob/main/ASP.NET%20Fundamentals%20-%20January%202024%20-%20Certificate.pdf)
+*  🚀  [ASP.NET Advanced](https://github.com/kzaraliev/kzaraliev/blob/main/ASP.NET%20Advanced%20-%20February%202024%20-%20Certificate.pdf)
+*  🎓  [Diploma for C# Web Developer](https://github.com/kzaraliev/kzaraliev/blob/main/Diploma%20for%20C%23%20Web%20Developer.pdf)
+
 
 ### Socials
 
@@ -34,113 +49,3 @@ src="https://img.shields.io/github/followers/kzaraliev?logo=github&style=for-the
 <a href="http://www.github.com/kzaraliev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kzaraliev&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=500 /></a>
 
 <a href="https://github.com/kzaraliev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzaraliev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-<p align="centre">
-  <img src="https://github.com/kzaraliev/SoftUni/blob/main/softuni-banner.png" alt="Banner SoftUni"/>
-</p>
-
-<h1 align="center">Certificates 📜 </h1>
-<table>
-<tr>
- <th> C# - CSharp (.NET) </th>
-</tr>
-<tr>
-<td>
- 
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022" > Programming Basics with C# </a>         | <a href="https://softuni.bg/certificates/details/125357/b8859cfc"> Click here</a> |
-  
-  Grade: 5.99 (out of 6.00)<br /> Issue Date: 22/02/2022</th>
-  
-  ---------------------------------------------------------------------------------
-  
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3729/programming-fundamentals-with-csharp-may-2022" > Programming Fundamentals with C# </a>    | <a href="https://softuni.bg/certificates/details/139431/f55d3022"> Click here</a> |
-  
-  Grade: 6.00 (out of 6.00)<br /> Issue Date: 09/08/2022</th>
-  
-  ---------------------------------------------------------------------------------
-  
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3842/csharp-advanced-september-2022" > C# Advanced </a>        | <a href="https://softuni.bg/certificates/details/144066/ffb8d5a0"> Click here</a> |
-
- Grade: 6.00 (out of 6.00)<br /> Issue Date: 26/10/2022</th>
- 
-  ---------------------------------------------------------------------------------
-  
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3843/csharp-oop-october-2022" > C# OOP </a>        | <a href="https://softuni.bg/certificates/details/150796/229b2897"> Click here</a> | 
-
- Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/12/2022</th>
- 
-   ---------------------------------------------------------------------------------
-   
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3965/ms-sql-january-2023" > MS SQL </a>        | <a href="https://softuni.bg/certificates/details/157806/9668b76b"> Click here</a> | 
-
- Grade: 6.00 (out of 6.00)<br /> Issue Date: 20/03/2023</th>
- 
-   ---------------------------------------------------------------------------------
-   
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3966/entity-framework-core-february-2023" > C# Entity Framework Core </a>        | <a href="https://softuni.bg/certificates/details/164840/26f40b6e"> Click here</a> | 
-
- Grade: 6.00 (out of 6.00)<br /> Issue Date: 03/04/2023</th>
- 
-   ---------------------------------------------------------------------------------
-   
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS </a>        |  <a href="https://softuni.bg/certificates/details/174803/91d5434d"> Click here</a> | 
-
-Grade: 6.00 (out of 6.00)<br /> Issue Date: 23/06/2023</th>
-
-
-   ---------------------------------------------------------------------------------
-   
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4113/js-front-end-june-2023" > JS Front-End </a>        |  <a href="https://softuni.bg/certificates/details/181303/9b59ac98"> Click here</a> | 
-
-Grade: 6.00 (out of 6.00)<br /> Issue Date: 07/08/2023</th>
-
-   ---------------------------------------------------------------------------------
-   
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4266/data-structures-fundamentals-with-csharp-september-2023" > Data-Structures </a>        |  <a href="https://softuni.bg/certificates/details/185480/4821c3eb"> Click here</a> | 
-
-Grade: 6.00 (out of 6.00)<br /> Issue Date: 10/10/2023</th>
-
-   ---------------------------------------------------------------------------------
-   
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4238/reactjs-october-2023" > ReactJS </a>        |  <a href="https://softuni.bg/certificates/details/197964/c1c160bc">Click here</a> |
-
-Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/12/2023</th>
-
-   ---------------------------------------------------------------------------------
-   
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4367/asp-net-fundamentals-january-2024" > ASP.NET Fundamentals </a>        |  <a href="https://softuni.bg/certificates/details/206739/520408d6">Click here</a> |
-
-Grade: 6.00 (out of 6.00)<br /> Issue Date: 27/02/2024</th>
-
-| **Course**                                                            | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4369/asp-net-advanced-february-2024" > ASP.NET Advanced </a>        |  <a href="https://softuni.bg/certificates/details/214186/9f2dbc6b">Click here</a> |
-
-Grade: 6.00 (out of 6.00)<br /> Issue Date: 22/04/2024</th>
-
-  </table>
-  </tr>
-</td>
