@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/kzaraliev?logo=github&style=for-the
 *  🔧  [Programming Fundamentals with C#](https://github.com/kzaraliev/kzaraliev/blob/main/Programming%20Fundamentals%20with%20C%23%20-%20May%202022%20-%20Certificate.pdf)
 *  🏆  [C# Advanced](https://github.com/kzaraliev/kzaraliev/blob/main/C%23%20Advanced%20-%20September%202022%20-%20Certificate.pdf)
 *  🏗️  [C# OOP](https://github.com/kzaraliev/kzaraliev/blob/main/C%23%20OOP%20-%20October%202022%20-%20Certificate.pdf)
-*  🗄️  [MS SQL](https://github.com/kzaraliev/kzaraliev/blob/main/MS%20SQL%20-%20January%202023%20-%20Certificate.pdf)
+*  🗄️   [MS SQL](https://github.com/kzaraliev/kzaraliev/blob/main/MS%20SQL%20-%20January%202023%20-%20Certificate.pdf)
 *  🔗  [Entity Framework Core](https://github.com/kzaraliev/kzaraliev/blob/main/Entity%20Framework%20Core%20-%20February%202023%20-%20Certificate.pdf)
 *  🌐  [HTML & CSS](https://github.com/kzaraliev/kzaraliev/blob/main/HTML%20%26%20CSS%20-%20May%202023%20-%20Certificate.pdf)
 *  💻  [JS Front-End](https://github.com/kzaraliev/kzaraliev/blob/main/JS%20Front-End%20-%20June%202023%20-%20Certificate.pdf)
