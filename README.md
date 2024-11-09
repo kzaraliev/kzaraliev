@@ -34,6 +34,7 @@ src="https://img.shields.io/github/followers/kzaraliev?logo=github&style=for-the
 *  🌍  [ASP.NET Fundamentals](https://github.com/kzaraliev/kzaraliev/blob/main/ASP.NET%20Fundamentals%20-%20January%202024%20-%20Certificate.pdf)
 *  🚀  [ASP.NET Advanced](https://github.com/kzaraliev/kzaraliev/blob/main/ASP.NET%20Advanced%20-%20February%202024%20-%20Certificate.pdf)
 *  🎓  [Diploma for C# Web Developer](https://github.com/kzaraliev/kzaraliev/blob/main/Diploma%20for%20C%23%20Web%20Developer.pdf)
+*  🛠️  [Software Engineering and DevOps](https://github.com/kzaraliev/kzaraliev/blob/main/Software%20Engineering%20and%20DevOps%20-%20September%202024%20-%20Certificate.pdf)
 
 
 ### Socials
